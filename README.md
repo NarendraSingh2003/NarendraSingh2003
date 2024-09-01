@@ -1,4 +1,5 @@
 Hi there, I'm Narendra Singh 👋
+
 I'm a passionate Computer Science graduate with a specialization in Cyber Security.
 
 🎓 I recently graduated from Oriental College of Technology Bhopal with a B.Tech in Computer Science Engineering (2021-2025).
