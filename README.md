@@ -1,8 +1,21 @@
-Hi there, I'm Narendra Singh 👋
+<h1 align="center">Hi 👋, I'm Narendra Singh</h1>
+<h3 align="center">A passionate frontend developer </h3>
+<img align="right" alt="coding" width="400" src="https://github.com/NarendraSingh2003/" alt="">
 
-I'm a passionate Computer Science graduate with a specialization in Cyber Security.
+- 🔭 I’m currently working on ** upskilling my skill set**
 
-🎓 I recently graduated from Oriental College of Technology Bhopal with a B.Tech in Computer Science Engineering (2021-2025).
-💼 I have experience in C++, Java, JavaScript, HTML, CSS, Bootstrap, and SQL.
-🔐 Certified in Cybersecurity Essentials and Introduction to Cybersecurity by Cisco, as well as Network Defense Essentials by EC-Council.
-💻 I enjoy working on projects that combine security with software development.
+- 🌱 I’m currently learning *some advance technology*
+
+- 📫 How to reach me *narendrasin2003@gmail.com.com*
+
+- ⚡ Fun fact *I think I am a funny.*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kishans40147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishans40147" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kishan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kishan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishan singh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
