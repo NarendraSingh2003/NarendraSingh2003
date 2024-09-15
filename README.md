@@ -2,11 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/narendrasi)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/NarendraSingh2003)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-yellow?style=flat-square&link=https://yourportfolio.com)](https://yourportfolio.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-yellow?style=flat-square&link=https://yourportfolio.com)](https://narendrasingh2003.github.io/Portfolio/)
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** with experience in **[Your Technologies: e.g., Full Stack Development, Cybersecurity, Data Science]**. I enjoy building high-quality web and mobile applications, contributing to open source, and solving challenging problems.
+I'm a passionate **Software Developer** with experience in **[ReactJS, JavaScript, CSS, HTML, Bootstrap, Twaliwind, SQL, Java,: e.g., Full Stack Development, Cybersecurity]**. I enjoy building high-quality web application, contributing to open source, and solving challenging problems.
 
 - 💻 Currently working on **[Your Latest Project]**
 - 🌱 Learning **[New Technologies or Skills]**
