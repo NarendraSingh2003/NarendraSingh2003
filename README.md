@@ -25,7 +25,7 @@ I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript
 ## 🚀 Projects
 
 ### [Project 1: E-Commerce Platform](https://narendrasingh2003.github.io/E-commercepage/)
-- Description:Developed a responsive front-end using HTML, CSS, and JavaScript, ensuring a seamless experience across different screen sizes and devices. .
+- Description:Developed a scalable e-commerce platform for seamless online shopping, aimed at enhancing user experience and administrative control over product management.
 - Tech Stack: Html,CSS,JavaScript
 
 ### [Project 2: Weather Application]()
