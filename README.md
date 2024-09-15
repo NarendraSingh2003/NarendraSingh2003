@@ -6,36 +6,29 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** with experience in **[ReactJS, JavaScript, CSS, HTML, Bootstrap, Twaliwind, SQL, Java,: e.g., Full Stack Development, Cybersecurity]**. I enjoy building high-quality web application, contributing to open source, and solving challenging problems.
+I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript, CSS, HTML, Bootstrap, Twaliwind, SQL, Java,: e.g., Full Stack Development, Cybersecurity**. I enjoy building high-quality web application, contributing to open source, and solving challenging problems.
 
-- 💻 Currently working on **[Your Latest Project]**
-- 🌱 Learning **[New Technologies or Skills]**
-- 🏆 Contributed to **[Open Source Project]**
-- 💬 Ask me about **JavaScript, Python, Cybersecurity, Full Stack Development**
-- ⚡ Fun fact: **I love coding and gaming in my free time!**
+- 💻 Currently working on **Back-end Technology**
+- 🌱 Learning **Machine Learning and Many more...**
+- 💬 Ask me about **JavaScript, Java, Cybersecurity, ReactJS**
+- ⚡ Fun fact: **I love Coding and Football, Cricket, Volleyball in my free time!**
 
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat-square&logo=mongodb)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=flat-square&logo=spring)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🚀 Projects
 
-### [Project 1: E-Commerce Platform](https://github.com/yourusername/project1)
-- Description: A scalable e-commerce platform built with React, Node.js, and MongoDB.
-- Tech Stack: React, Node.js, MongoDB
+### [Project 1: E-Commerce Platform](https://narendrasingh2003.github.io/E-commercepage/)
+- Description: Developed a fully functional e-commerce platform with a focus on scalability, user experience.
+- Tech Stack: Html,CSS,JavaScript
 
-### [Project 2: Weather Application](https://github.com/yourusername/project2)
+### [Project 2: Weather Application]()
 - Description: A weather forecasting app using React and OpenWeatherMap API.
 - Tech Stack: React, JavaScript, API integration
 
