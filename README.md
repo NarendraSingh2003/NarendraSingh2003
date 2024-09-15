@@ -32,13 +32,13 @@ I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript
 - Description: A weather forecasting app using React and OpenWeatherMap API.
 - Tech Stack: React, JavaScript, API integration
 
-### [Project 3: Chatbot Application](https://github.com/yourusername/project3)
+### [Project 3: Landing Page](https://narendrasingh2003.github.io/GoodTwo/)
 - Description: A real-time chatbot built with Java, Spring Boot, and MySQL.
-- Tech Stack: Java, Spring Boot, MySQL
+- Tech Stack: HTML, CSS, JavaScript, GSAPS
 
 ## 📫 How to reach me
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [narendrasin2003@gmail.com](narendrasin2003@gmail.com)
+- **LinkedIn**: [linkedin.com/in/narendrasi](https://www.linkedin.com/in/narendrasi)
+- **GitHub**: [github.com/narendrasingh2003](https://github.com/narendrasingh2003)
 
