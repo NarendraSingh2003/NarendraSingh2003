@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript
 
 ### [Project 2: Weather Application]()
 - Description: A weather forecasting app using React and OpenWeatherMap API.
-- Tech Stack: React, JavaScript, API integration
+- Tech Stack: React, JavaScript,  Material-UI, API integration
 
 ### [Project 3: Landing Page](https://narendrasingh2003.github.io/GoodTwo/)
 - Description: Implemented dynamic effects that are triggered as the user scrolls through the page, such as fade-ins, sliding elements, and parallax backgrounds, using CSS and JavaScript..
