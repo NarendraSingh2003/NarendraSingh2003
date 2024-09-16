@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript, CSS, HTML, Bootstrap, Tailwind, SQL, Java,: e.g., Full Stack Development, Cybersecurity**. I enjoy building high-quality web application, contributing to open source, and solving challenging problems.
+I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript, CSS, HTML, Bootstrap, Tailwind, Material UI, Redux, MangoDB, SQL, Java,: e.g., Full Stack Development, Cybersecurity**. I enjoy building high-quality web application, contributing to open source, and solving challenging problems.
 
 - 💻 Currently working on **Back-end Technology**
 - 🌱 Learning **Machine Learning and Many more...**
