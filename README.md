@@ -10,7 +10,7 @@ I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript
 
 - 💻 Currently working on **Back-end Technology**
 - 🌱 Learning **Machine Learning and Many more...**
-- 💬 Ask me about **JavaScript, Java, Cybersecurity, ReactJS**
+- 💬 Ask me about **Cybersecurity**
 - ⚡ Fun fact: **I love Coding and Football, Cricket, Volleyball in my free time!**
 
 ## 🔧 Technologies & Tools
