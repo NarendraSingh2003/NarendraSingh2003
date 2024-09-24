@@ -28,7 +28,7 @@ I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript
 - Description:Developed a scalable e-commerce platform for seamless online shopping, aimed at enhancing user experience and administrative control over product management.
 - Tech Stack: Html,CSS,JavaScript
 
-### [Project 2: Weather Application]()
+### [Project 2: Weather Application](https://weather-app-mauve-gamma-76.vercel.app/)
 - Description: A weather forecasting app using React and OpenWeatherMap API.
 - Tech Stack: React, JavaScript,  Material-UI, API integration
 
