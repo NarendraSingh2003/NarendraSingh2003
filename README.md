@@ -22,19 +22,7 @@ I'm a passionate **Software Developer** with experience in **ReactJS, JavaScript
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 🚀 Projects
 
-### [Project 1: E-Commerce Platform](https://narendrasingh2003.github.io/E-commercepage/)
-- Description:Developed a scalable e-commerce platform for seamless online shopping, aimed at enhancing user experience and administrative control over product management.
-- Tech Stack: Html,CSS,JavaScript
-
-### [Project 2: Weather Application](https://weather-app-mauve-gamma-76.vercel.app/)
-- Description: A weather forecasting app using React and OpenWeatherMap API.
-- Tech Stack: React, JavaScript,  Material-UI, API integration
-
-### [Project 3: Landing Page](https://narendrasingh2003.github.io/GoodTwo/)
-- Description: Implemented dynamic effects that are triggered as the user scrolls through the page, such as fade-ins, sliding elements, and parallax backgrounds, using CSS and JavaScript..
-- Tech Stack: HTML, CSS, JavaScript, GSAPS
 
 ## 📫 How to reach me
 
