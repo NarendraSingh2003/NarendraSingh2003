@@ -4,17 +4,25 @@ I'm a **Cybersecurity-focused Software Engineer** with a background in **Compute
 
 I enjoy identifying security vulnerabilities, securing web applications, analyzing networks, automating security workflows, and building secure software solutions.
 
-- 🔐 Interested in **Cybersecurity, Ethical Hacking & Web Application Security**
-- 🌐 Exploring **OWASP, Network Security & Vulnerability Assessment**
-- ☁️ Learning and working with **AWS, Docker, Kubernetes & DevSecOps**
-- 🐧 Comfortable with **Linux, Kali Linux & Security Tools**
-- 🛠️ Using tools like **Nmap, Wireshark, Burp Suite & Cisco Packet Tracer**
+## 🛡️ About Me
+
+I'm a **Cybersecurity-focused Software Engineer** with a background in **Computer Engineering (Cyber Security)** and hands-on experience in **Web Security, Network Security, DevSecOps, Cloud Security, and Full-Stack Development**.
+
+I enjoy identifying security vulnerabilities, securing web applications, analyzing networks, automating security workflows, and building secure software solutions.
+
+- 🔐 Knowledge of **Cybersecurity, Ethical Hacking & Web Application Security**
+- 🌐 Knowledge of **OWASP, Network Security & Vulnerability Assessment**
+- ☁️ Knowledge of **AWS, Docker, Kubernetes & DevSecOps**
+- 🐧 Proficient with **Linux, Kali Linux & Security Tools**
+- 🛠️ Experience with **Nmap, Wireshark, Burp Suite & Cisco Packet Tracer**
 - 💻 Full-Stack experience with **React.js, Node.js, Express.js & MongoDB**
-- 🚀 Interested in **DevSecOps, Cloud Security & Application Security**
-- 📚 Continuously learning and building security-focused projects
+- 🚀 Knowledge of **DevSecOps, Cloud Security & Application Security**
+- 📚 Strong foundation in **Cybersecurity concepts, secure development & security practices**
 
 ### 🎯 Current Focus
+
 **Cybersecurity → DevSecOps → Cloud Security → Application Security**
+
 ## 🛡️ Cybersecurity
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
