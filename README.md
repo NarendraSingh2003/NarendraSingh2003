@@ -4,12 +4,6 @@ I'm a **Cybersecurity-focused Software Engineer** with a background in **Compute
 
 I enjoy identifying security vulnerabilities, securing web applications, analyzing networks, automating security workflows, and building secure software solutions.
 
-## 🛡️ About Me
-
-I'm a **Cybersecurity-focused Software Engineer** with a background in **Computer Engineering (Cyber Security)** and hands-on experience in **Web Security, Network Security, DevSecOps, Cloud Security, and Full-Stack Development**.
-
-I enjoy identifying security vulnerabilities, securing web applications, analyzing networks, automating security workflows, and building secure software solutions.
-
 - 🔐 Knowledge of **Cybersecurity, Ethical Hacking & Web Application Security**
 - 🌐 Knowledge of **OWASP, Network Security & Vulnerability Assessment**
 - ☁️ Knowledge of **AWS, Docker, Kubernetes & DevSecOps**
